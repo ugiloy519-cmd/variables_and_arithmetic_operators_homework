@@ -1,5 +1,9 @@
 # Create a variable "a"  and assign it the value of the int 12.
-
+a=12
+b=4
+c=1
+answer=a-b+c
+print(answer)
 # Create a variable "b"  and assign it the value of the int 4.
 
 # Create a variable "c"  and assign it the value of the int 1.
