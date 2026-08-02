@@ -1,5 +1,9 @@
 # Create a variable "a"  and assign it the value of the int 3.
-
+a=3
+b=4
+c=2
+answer=a*b/c
+print(answer)
 # Create a variable "b"  and assign it the value of the int 4.
 
 # Create a variable "c"  and assign it the value of the int 2.
