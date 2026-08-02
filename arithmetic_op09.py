@@ -1,5 +1,10 @@
 # Create a variable "a"  and assign it the value of the int 8.
-
+a=8
+b=3
+c=2
+d=4
+answer=a+b-c*d
+print(answer)
 # Create a variable "b"  and assign it the value of the int 3.
 
 # Create a variable "c"  and assign it the value of the int 2.
